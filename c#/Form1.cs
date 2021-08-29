@@ -15,7 +15,6 @@ namespace c_
         public Form1()
         {
             InitializeComponent();
-            MessageBox.Show("L'application a été lancé ");
         }
 
     }
